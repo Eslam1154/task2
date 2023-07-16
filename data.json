@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "fname": "Eslam",
+        "lname": "Mostafa",
+        "age": 22,
+        "city": "Beni Suef"
+    },
+    {
+        "id": 2,
+        "fname": "Amr",
+        "lname": "Gamal",
+        "age": 20,
+        "city": "cario"
+    },
+    {
+        "id": 3,
+        "fname": "Emad",
+        "lname": "mohamed",
+        "age": 30,
+        "city": "Suez"
+    },
+    {
+        "id": 5,
+        "fname": "Sameh",
+        "lname": "Khaled",
+        "age": 18,
+        "city": "Sohag"
+    },
+    {
+        "id": 7,
+        "fname": "Ali",
+        "lname": "Mokhtar",
+        "age": 31,
+        "city": "Faiyum"
+    }
+]
